@@ -1,7 +1,5 @@
-package org.example;
+package org.example;    
 
-    // This is your working class.
-    
 /**
  * A record to represent a book.
  */
